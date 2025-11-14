@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Creator-Maching/Search-Img-React-Basico.git/static/css/main.737a752e.css",
-    "main.js": "/Creator-Maching/Search-Img-React-Basico.git/static/js/main.9ce73a90.js",
-    "static/media/paisagem-montanha.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-montanha.81aa70f5697ca1b2bb6c.jpg",
-    "static/media/paisagem-oceano.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-oceano.9ab616d05ed721bf34f8.jpg",
-    "static/media/paisagem-floresta.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-floresta.2b2c58ea314d35cb48f1.jpg",
-    "static/media/animal-urso.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-urso.45e9a6af4df8c0188cfc.jpg",
-    "static/media/animal-dog.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-dog.045ef5d25e5a10ebd4f4.jpg",
-    "static/media/animal-gato.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-gato.d40f8c144cfe7ea29d04.jpg",
-    "static/media/paisagem-lago.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-lago.2a19c38143ff56f47ca7.jpg",
-    "static/media/animal-leão.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-leão.3259b32a666e4b7d42d9.jpg",
-    "static/media/animal-baleia.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-baleia.6084d0687ad618085084.jpg",
-    "static/media/paisagem-pantanal.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-pantanal.4cbacd430b486bead793.jpg",
-    "static/media/paisagem-savana.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/paisagem-savana.516fec74b9190bc75bdb.jpg",
-    "static/media/animal-morcego.jpg": "/Creator-Maching/Search-Img-React-Basico.git/static/media/animal-morcego.30063092bd735573110c.jpg",
-    "index.html": "/Creator-Maching/Search-Img-React-Basico.git/index.html",
-    "main.737a752e.css.map": "/Creator-Maching/Search-Img-React-Basico.git/static/css/main.737a752e.css.map",
-    "main.9ce73a90.js.map": "/Creator-Maching/Search-Img-React-Basico.git/static/js/main.9ce73a90.js.map"
+    "main.css": "/Search-Img-React-Basico/static/css/main.050d452e.css",
+    "main.js": "/Search-Img-React-Basico/static/js/main.b324c026.js",
+    "static/media/paisagem-montanha.jpg": "/Search-Img-React-Basico/static/media/paisagem-montanha.81aa70f5697ca1b2bb6c.jpg",
+    "static/media/paisagem-oceano.jpg": "/Search-Img-React-Basico/static/media/paisagem-oceano.9ab616d05ed721bf34f8.jpg",
+    "static/media/paisagem-floresta.jpg": "/Search-Img-React-Basico/static/media/paisagem-floresta.2b2c58ea314d35cb48f1.jpg",
+    "static/media/animal-urso.jpg": "/Search-Img-React-Basico/static/media/animal-urso.45e9a6af4df8c0188cfc.jpg",
+    "static/media/animal-dog.jpg": "/Search-Img-React-Basico/static/media/animal-dog.045ef5d25e5a10ebd4f4.jpg",
+    "static/media/animal-gato.jpg": "/Search-Img-React-Basico/static/media/animal-gato.d40f8c144cfe7ea29d04.jpg",
+    "static/media/paisagem-lago.jpg": "/Search-Img-React-Basico/static/media/paisagem-lago.2a19c38143ff56f47ca7.jpg",
+    "static/media/animal-leão.jpg": "/Search-Img-React-Basico/static/media/animal-leão.3259b32a666e4b7d42d9.jpg",
+    "static/media/animal-baleia.jpg": "/Search-Img-React-Basico/static/media/animal-baleia.6084d0687ad618085084.jpg",
+    "static/media/paisagem-pantanal.jpg": "/Search-Img-React-Basico/static/media/paisagem-pantanal.4cbacd430b486bead793.jpg",
+    "static/media/paisagem-savana.jpg": "/Search-Img-React-Basico/static/media/paisagem-savana.516fec74b9190bc75bdb.jpg",
+    "static/media/animal-morcego.jpg": "/Search-Img-React-Basico/static/media/animal-morcego.30063092bd735573110c.jpg",
+    "index.html": "/Search-Img-React-Basico/index.html",
+    "main.050d452e.css.map": "/Search-Img-React-Basico/static/css/main.050d452e.css.map",
+    "main.b324c026.js.map": "/Search-Img-React-Basico/static/js/main.b324c026.js.map"
   },
   "entrypoints": [
-    "static/css/main.737a752e.css",
-    "static/js/main.9ce73a90.js"
+    "static/css/main.050d452e.css",
+    "static/js/main.b324c026.js"
   ]
 }
