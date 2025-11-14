@@ -1,4 +1,5 @@
 <img width="1338" height="611" alt="Captura de tela 2025-11-14 141228" src="https://github.com/user-attachments/assets/e714aac1-e7cc-4e3f-b81d-9bc199e33841" />
+
 # Search-Img-React-Basico
 
 Uma galeria interativa em React para buscar e exibir imagens de **animais** e **paisagens**, com filtragem via input de texto.  
