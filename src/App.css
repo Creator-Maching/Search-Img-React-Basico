@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.galeria{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+  list-style: none;
+}
+
+.imgItem{
+  width: 200px;
+  margin-top: 60px;
+  border-radius: 10px;
+}
+
+.container{
+  background-image: url('./asset/img/animais/animal-baleia.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1{
+  margin-bottom: 50px;
+  padding-top: 85px;
+  color: white;
+}
+
+input{
+  margin: 30px;
+  height: 30px;
+  width: 300px;
+}
+
+button{
+  background-color: green;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer{
+  margin-top: 50px;
+  padding: 40px;
+  font-size: 14px;
+  background-color: black;
+  color: white;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.modal-img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 10px;
+}
