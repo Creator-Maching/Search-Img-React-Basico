@@ -25,5 +25,6 @@ Projeto ideal para portfólio de desenvolvedor júnior frontend.
 - Estrutura de projeto típica (`src`, `public`)  
 - Deploy via GitHub Pages (configuração em `package.json` com `gh-pages`)
 
-
+## Site (não responsivo)
+link: https://creator-maching.github.io/Search-Img-React-Basico/
 
